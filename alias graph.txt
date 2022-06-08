@@ -11,3 +11,6 @@ git branch -D <name branch>
 
 //status branch
 git branch
+
+//merge status
+git branch --merge
