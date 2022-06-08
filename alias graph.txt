@@ -1,0 +1,13 @@
+alias graph="git log --all --decorate --oneline --graph"
+
+//checkout
+checkout git checkout <name branch>
+
+//delete branch
+git branch -d <name branch>
+
+//or (jika belum di-merge)
+git branch -D <name branch>
+
+//status branch
+git branch
